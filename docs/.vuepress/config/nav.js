@@ -144,9 +144,9 @@ module.exports = [
       { text: "Serverless介绍", link: "/pages/eb693b/" },
     ],
   },
-  {
-    text: "友链",
-    link: "/pages/8149d9/",
-  },
-  { text: "GitHub", link: "https://github.com/coderlyu" },
+  // {
+  //   text: "友链",
+  //   link: "/pages/8149d9/",
+  // },
+  // { text: "GitHub", link: "https://github.com/coderlyu" },
 ];
