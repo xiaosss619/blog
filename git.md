@@ -15,6 +15,10 @@ rsync -avz ./dist/* rocky@43.198.7.164:/home/rocky/sg/html/merchant
 # 取消合并
 git merge --abort
 
+# 取消合并
+git merge --abort
+
+
 
 
 
