@@ -5,6 +5,7 @@ git branch -d localBranchName
 git push origin --delete remoteBranchName
 
 # 创建新分支
+git checkout -b localBranchName
 
 # 本地分支推向远程
 git push -u origin remoteBranchName
@@ -15,8 +16,12 @@ rsync -avz ./dist/* rocky@43.198.7.164:/home/rocky/sg/html/merchant
 # 取消合并
 git merge --abort
 
-# 取消合并
-git merge --abort
+# 回滚代码
+git reset --hard 05ac0bfb2929d9cbwiener75e52ecb011950fb
+
+# 推送远程
+git push origin HEAD --force
+
 
 
 
@@ -41,3 +46,18 @@ ctrl + U: 清空当前行
 ⌘ + shift + J: 打开下载内容页
 ⌘ + T: 打开新标签页
 ⌘ + N: 打开新窗口
+
+# 学习
+https://sunzsh.gitbook.io/xiaoshan.bug/zhen-xin-tui-jian-ji-ge-cheng-xu-yuan-de-xiao-gong-ju
+
+#网站
+https://boosym.com/category/app
+
+# 截图软件 
+ snipaste
+
+# 常用地址
+https://juejin.cn/post/7139921537896808479 vue3.0 面试题
+https://juejin.cn/post/7292299435924783139 vben
+https://tailwindcss.com/docs/text-overflow tailwindcss 使用
+https://juejin.cn/post/7117142442926686215 资深面试题
