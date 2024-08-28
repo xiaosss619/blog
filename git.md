@@ -22,6 +22,11 @@ git reset --hard 05ac0bfb2929d9cbwiener75e52ecb011950fb
 # 推送远程
 git push origin HEAD --force
 
+# FLUTER 格式代码
+ Mac 系统里使用 Cmd + Option + L。
+
+ lz678896@gmail.com
+
 
 
 
@@ -50,8 +55,13 @@ ctrl + U: 清空当前行
 # 学习
 https://sunzsh.gitbook.io/xiaoshan.bug/zhen-xin-tui-jian-ji-ge-cheng-xu-yuan-de-xiao-gong-ju
 
-#网站
+# 网站
 https://boosym.com/category/app
+
+用户名 starry
+邮箱 
+
+
 
 # 截图软件 
  snipaste
@@ -64,4 +74,51 @@ https://juejin.cn/post/7117142442926686215 资深面试题
 
 
 # 密码
+https://git.131j.com/users/sign_in
 starry  Lz199024
+
+# mqtt客户端
+https://mqttx.app/zh
+
+# stake
+
+00639959805055
+
+starry001
+
+Starry002
+
+starry002
+
+5V9Knby5
+
+# 百度网盘
+
+13027184704
+
+19930729Cy.
+
+
+# flutter 模版
+https://github.com/DebugAlvin/fire_boot flutter 模版
+
+fvm flutter devices
+
+
+# mysql 连接
+sgdev
+Jw1o65R;)Z$+xB1a
+
+18.163.57.138:6033
+
+# xcode 版本
+xcodebuild -version
+
+# jeevboot 
+https://help.jeecg.com/optimizationPlan.html 优化
+
+
+
+
+starry111  123456
+starry222  123456
